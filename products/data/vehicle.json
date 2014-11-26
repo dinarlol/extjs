@@ -1,0 +1,10 @@
+{
+    
+    "vehicles":[
+    {"id": 1,"brand_id": 1,"name": "polo","model": "dX","year": 2000}, 
+    {"id": 2,"brand_id": 1,"name": "santana","model": "gl","year": 19999}, 
+    {"id": 3,"brand_id": 2,"name": "palio","model": "delux","year": 1999},
+    {"id": 4,"brand_id": 2,"name": "idea","model": "delux","year": 1995}
+    
+    ]
+}
